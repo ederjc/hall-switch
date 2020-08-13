@@ -1,19 +1,20 @@
 #include <stdint.h>
-#include <iostream>
+#include <unistd.h>
+#include <stdio.h>
 #include "hall-switch-rpi.hpp"
 
 //#define HALL_SWITCH_FRAMEWORK HALL_SWITCH_FRMWK_RPI
 
-HallSwitchRpi    hs;
+HallSwitchRpi    hs( TLE4964_3M_S2Go_Rpi4 );
 
 int main() {
-	hs.init();
-	hs.enable();
-
+	printf( "Setup status: %d\n", hs.init() );
+	
 	while (true) {
-		hs.getStatus();
-		usleep(1 * 1000 * 1000);
+		hs.updateBField();
+		printf( "Hall switch status: %d\n", hs.getBField() );
+		sleep(1);
 	}
-}
 
-main();
+	return 0;
+}
