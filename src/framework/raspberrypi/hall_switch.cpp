@@ -4,8 +4,16 @@
 
 //#define HALL_SWITCH_FRAMEWORK HALL_SWITCH_FRMWK_RPI
 
-HallSwitchRpi    hallSwitch;
+HallSwitchRpi    hs;
 
 int main() {
-	hallSwitch.init();
+	hs.init();
+	hs.enable();
+
+	while (true) {
+		hs.getStatus();
+		usleep(1 * 1000 * 1000);
+	}
 }
+
+main();
