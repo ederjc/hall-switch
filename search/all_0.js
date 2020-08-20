@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['application_5fstart',['application_start',['../d4/de4/hall__switch_8cpp.html#a1b078eb11b33c0125c88261467908eb4',1,'hall_switch.cpp']]],
-  ['arduino',['Arduino',['../db/d65/group__hsino.html',1,'']]]
+  ['_5f_5fpad0_5f_5f',['__pad0__',['../db/d2d/hall-switch-wiced_8cpp.html#ab6f3c269fc46c9c1c0f81b3431240138',1,'hall-switch-wiced.cpp']]]
 ];

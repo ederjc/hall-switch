@@ -1,8 +1,7 @@
 var searchData=
 [
-  ['timer',['timer',['../db/ddb/classHallSpeed.html#a6c118501b9c710093c1452ce899862bd',1,'HallSpeed']]],
-  ['tle4922_5f2gokit',['TLE4922_2GoKit',['../da/dc9/group__hsinohw.html#ga3a715bf3583effd089135e36ebd4dda2',1,'TLE4922_2GoKit():&#160;hall-platf-ino.cpp'],['../da/dc9/group__hsinohw.html#ga3a715bf3583effd089135e36ebd4dda2',1,'TLE4922_2GoKit():&#160;hall-platf-ino.cpp']]],
-  ['tle4964_5f3m_5fs2go_5farduinouno',['TLE4964_3M_S2Go_ArduinoUno',['../da/dc9/group__hsinohw.html#ga9c5c78e4ef09617b82ab95200aa78367',1,'TLE4964_3M_S2Go_ArduinoUno():&#160;hall-platf-ino.cpp'],['../da/dc9/group__hsinohw.html#ga9c5c78e4ef09617b82ab95200aa78367',1,'TLE4964_3M_S2Go_ArduinoUno():&#160;hall-platf-ino.cpp']]],
-  ['tle4964_5f3m_5fs2go_5fcyw943907aeval1f',['TLE4964_3M_S2Go_CYW943907AEVAL1F',['../d9/d31/group__hswicedhw.html#ga66bd930c6d7b134b993381041d6cd622',1,'TLE4964_3M_S2Go_CYW943907AEVAL1F():&#160;hall-platf-wiced.cpp'],['../d9/d31/group__hswicedhw.html#ga66bd930c6d7b134b993381041d6cd622',1,'TLE4964_3M_S2Go_CYW943907AEVAL1F():&#160;hall-platf-wiced.cpp']]],
-  ['tle4964_5f3m_5fs2go_5fxmc2go',['TLE4964_3M_S2Go_XMC2Go',['../da/dc9/group__hsinohw.html#ga59aef6c5aa781591f0d79753986dabe3',1,'TLE4964_3M_S2Go_XMC2Go():&#160;hall-platf-ino.cpp'],['../da/dc9/group__hsinohw.html#ga59aef6c5aa781591f0d79753986dabe3',1,'TLE4964_3M_S2Go_XMC2Go():&#160;hall-platf-ino.cpp']]]
+  ['polespair',['polesPair',['../db/ddb/classHallSpeed.html#ad90f4ede9cd120b497679dba28b72f13',1,'HallSpeed']]],
+  ['power',['power',['../dd/db6/classHallSwitch.html#ab724426c5f38fd6ef658cc003a13d7fa',1,'HallSwitch::power()'],['../d9/d80/structPlatformIno__t.html#a5b311935a0bb5836112f1dafb93b23ca',1,'PlatformIno_t::power()'],['../d0/dce/structPlatformRpi__t.html#a91e02ac4db9c53d69fe5c66df94b0de0',1,'PlatformRpi_t::power()'],['../d5/dc5/structPlatformWICED__t.html#a9eccd6aff8cd1844b1c984a59dbaa802',1,'PlatformWICED_t::power()']]],
+  ['powermode',['powerMode',['../dd/db6/classHallSwitch.html#af2e166d15e3eb00132185acfb157b8e2',1,'HallSwitch']]],
+  ['powerpin',['powerPin',['../db/d2d/hall-switch-wiced_8cpp.html#af4e102a861941513bcae4257615aeaa3',1,'hall-switch-wiced.cpp']]]
 ];

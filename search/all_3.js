@@ -1,7 +1,12 @@
 var searchData=
 [
-  ['deinit',['deinit',['../db/ddb/classHallSpeed.html#a662eb1948fed4ca91e27c2036fc57940',1,'HallSpeed::deinit()'],['../dd/db6/classHallSwitch.html#aebc1baf88406ae2998d90b5100be6065',1,'HallSwitch::deinit()'],['../d6/dfc/classGPIOIno.html#aa9c559a60d843fd806796ff23adad797',1,'GPIOIno::deinit()'],['../dd/d9b/classTimerIno.html#adbb12580849ce2c53ef882ebad603d6d',1,'TimerIno::deinit()'],['../dd/dcb/classGPIOWiced.html#aefd36851159349c5a019ef133634faf7',1,'GPIOWiced::deinit()'],['../dd/d09/classHallSwitch_1_1GPIO.html#ad481d3d92fa6254de678efd7869b9e8c',1,'HallSwitch::GPIO::deinit()'],['../d6/dc2/classHallSpeed_1_1Timer.html#a8c6b820feb28299dc4e526bbd03ec52f',1,'HallSpeed::Timer::deinit()']]],
-  ['delay',['delay',['../dd/d9b/classTimerIno.html#aa8d72911e498291e2e66d29100b7610c',1,'TimerIno::delay()'],['../d6/dc2/classHallSpeed_1_1Timer.html#a7ef2a2f85d9a8baf4973ba4bffa87fe0',1,'HallSpeed::Timer::delay()']]],
-  ['disable',['disable',['../db/ddb/classHallSpeed.html#aad9dc37fdba051efac20da3324a8e1cc',1,'HallSpeed::disable()'],['../dd/db6/classHallSwitch.html#a4285836961ea56bf8f2c60a2243236db',1,'HallSwitch::disable()'],['../d6/dfc/classGPIOIno.html#a77ab4a2d9cac12d0f0571efa9eab7d22',1,'GPIOIno::disable()'],['../dd/dcb/classGPIOWiced.html#a0a03cf4c9705578184c6bf130b3456bb',1,'GPIOWiced::disable()'],['../dd/d09/classHallSwitch_1_1GPIO.html#a3ee4946c6927a987a2d29559813c6131',1,'HallSwitch::GPIO::disable()']]],
-  ['disableint',['disableInt',['../d6/dfc/classGPIOIno.html#a1e7ff20e28d28e3a2ab0001d61def895',1,'GPIOIno::disableInt()'],['../dd/dcb/classGPIOWiced.html#acbc1f655a23417e5f15e01b53be9f077',1,'GPIOWiced::disableInt()'],['../dd/d09/classHallSwitch_1_1GPIO.html#a7521e8f19e8438dd161e82bd437d861a',1,'HallSwitch::GPIO::disableInt()']]]
+  ['calculatespeed',['calculateSpeed',['../db/ddb/classHallSpeed.html#a21f7bb728a3a4958b9f9039113b2a70e',1,'HallSpeed']]],
+  ['callback',['callback',['../db/ddb/classHallSpeed.html#ae5b56e505378988a839c9eb9735ee0db',1,'HallSpeed::callback()'],['../dd/db6/classHallSwitch.html#a5dffab5504ae7cee6f35ef72370efeab',1,'HallSwitch::callback()']]],
+  ['cback',['cBack',['../dd/db6/classHallSwitch.html#a35856e349809bd1ae3336e3a07514225',1,'HallSwitch::cBack()'],['../db/d2d/hall-switch-wiced_8cpp.html#a472a1f9b930399c8523b1d307033c02d',1,'cBack():&#160;hall-switch-wiced.cpp']]],
+  ['cback_5ft',['CBack_t',['../dd/db6/classHallSwitch.html#adf389645bdd9aa2f5da5fdbcd614dc4f',1,'HallSwitch']]],
+  ['cbackspd_5ft',['CBackSpd_t',['../db/ddb/classHallSpeed.html#a99bc63d8f6ae45366990e84e5b544d5e',1,'HallSpeed']]],
+  ['conf_5ferror',['CONF_ERROR',['../dd/db6/classHallSwitch.html#aa2ee75b18a1d7ad9607f4cf820da6df8a46ecc715455ce7e51b466edbde2b922b',1,'HallSwitch']]],
+  ['curfield',['curField',['../d4/de4/hall__switch_8cpp.html#a0fd31564e2ca29248b135c90052b85d1',1,'hall_switch.cpp']]],
+  ['curstat',['curStat',['../d4/de4/hall__switch_8cpp.html#a6649f21a994309c6038dce3272b9eaaf',1,'hall_switch.cpp']]],
+  ['core_20library',['Core Library',['../db/d63/group__hscorelib.html',1,'']]]
 ];

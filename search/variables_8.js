@@ -1,8 +1,4 @@
 var searchData=
 [
-  ['speed',['speed',['../db/ddb/classHallSpeed.html#a034d1347bead328c572e96d1ef98aaff',1,'HallSpeed']]],
-  ['speedcoeff',['speedCoeff',['../db/ddb/classHallSpeed.html#a989ee359b5d62fc5f23e9f3c62808c45',1,'HallSpeed']]],
-  ['stat',['stat',['../d4/de4/hall__switch_8cpp.html#afb1c9b67d8227dc56fedbd0345b6d414',1,'hall_switch.cpp']]],
-  ['status',['status',['../dd/db6/classHallSwitch.html#a0d4780d9a0407c862f58caff6723bfe2',1,'HallSwitch']]],
-  ['sunits',['sUnits',['../db/ddb/classHallSpeed.html#ae70163bae6783da9a824ac98440b988b',1,'HallSpeed']]]
+  ['output',['output',['../dd/db6/classHallSwitch.html#aa8d9332c6f28bf0da6d253795036b2a0',1,'HallSwitch::output()'],['../d9/d80/structPlatformIno__t.html#a6590b8468ee4c841563d021bd0ad3d40',1,'PlatformIno_t::output()'],['../d0/dce/structPlatformRpi__t.html#a9a6c4d26ecbc303c2387735c9f05de44',1,'PlatformRpi_t::output()'],['../d5/dc5/structPlatformWICED__t.html#a8ba23c71e146c37ce32d6d93dbeced00',1,'PlatformWICED_t::output()']]]
 ];

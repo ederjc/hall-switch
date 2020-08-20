@@ -28,7 +28,8 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"annotated.html"
+"annotated.html",
+"dd/db6/classHallSwitch.html#ae3ecc0ebf1274a792afee40edc82049ca5ef5f1169f27bf17fbef9a7124a3f899"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

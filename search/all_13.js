@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['wiced',['WICED',['../d4/d52/group__hswiced.html',1,'']]],
-  ['write',['write',['../d6/dfc/classGPIOIno.html#a719ab9d66939ee6f3686eb1c58605962',1,'GPIOIno::write()'],['../dd/dcb/classGPIOWiced.html#a01b6bb716eacf1986754ababb160a709',1,'GPIOWiced::write()'],['../dd/d09/classHallSwitch_1_1GPIO.html#ac08337da77862a7bd84116566079e04d',1,'HallSwitch::GPIO::write()']]]
+  ['vlevel_5ft',['VLevel_t',['../dd/d09/classHallSwitch_1_1GPIO.html#a4467bc383f495fde8c96412a8189292e',1,'HallSwitch::GPIO']]],
+  ['vlogic_5ft',['VLogic_t',['../dd/d09/classHallSwitch_1_1GPIO.html#a23aefa877466806c670f5f520eae0013',1,'HallSwitch::GPIO']]]
 ];
