@@ -5,7 +5,6 @@ branches:
     - feature/rpi4-platform
     - /^v.*$/
 
-# Builds Test
 jobs:
   include:   
     - stage: "Arduino"
@@ -26,7 +25,14 @@ jobs:
         - platformio platform install -f atmelavr@2.0.0
 
       script: 
-        - platformio ci --exclude=lib/hall-switch/src/framework/raspberrypi --exclude=lib/hall-switch/src/framework/wiced-43xxx --lib="." --board=xmc1100_xmc2go --board=xmc1100_boot_kit --board=xmc4700_relax_kit --board=uno        
+        - platformio ci --exclude=lib/hall-switch/src/framework/raspberrypi --exclude=lib/hall-switch/src/framework/wiced-43xxx --lib="." --board=xmc1100_xmc2go --board=xmc1100_boot_kit --board=xmc4700_relax_kit --board=uno
+        
+    - stage: "Raspberry Pi"
+      name: "Compilation for Raspberry Pi"
+      language: cpp
+      compiler: gcc
+      script: make all
+        
     - stage: "Deploy" 
       name: "GitHub Pages Deployment"
       addons:
