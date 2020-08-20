@@ -10,7 +10,7 @@ jobs:
     - stage: "Raspberry Pi"
       name: "Compilation for Raspberry Pi"
       language: cpp
-      compiler: gcc
+      compiler: g++
       script: cd src/framework/raspberrypi && make ci
       
     - stage: "Arduino"
