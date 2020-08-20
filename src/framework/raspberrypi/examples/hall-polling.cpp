@@ -1,3 +1,5 @@
+#if (HALL_SWITCH_FRAMEWORK == HALL_SWITCH_FRMWK_RPI)
+
 #include <stdint.h>
 #include <stdio.h>
 #include "hall-switch-rpi.hpp"
@@ -36,3 +38,5 @@ int main() {
 
 	return 0;
 }
+
+#endif
