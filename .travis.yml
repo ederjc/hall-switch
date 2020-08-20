@@ -11,7 +11,9 @@ jobs:
       name: "Compilation for Raspberry Pi"
       language: cpp
       compiler: gcc
-      script: make all
+      before_install:
+        - sudo apt-get update && sudo apt-get install wiringpi
+      script: cd src/framework/raspberrypi && make all
       
     - stage: "Arduino"
       name: "Compilation for Arduino framework using platformio"
